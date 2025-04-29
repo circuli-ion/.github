@@ -12,10 +12,10 @@ Closes #TASK_ID_ON_CLICKUP
 
 ## 📜 Changelog
 <!-- List key changes in this PR for better tracking. -->
-- **Added:** New feature or functionality.
-- **Fixed:** Bug fixes or issues resolved.
-- **Changed:** Modifications or improvements.
-- **Removed:** Deprecated or unnecessary code.
+**Added:** New feature or functionality.
+**Fixed:** Bug fixes or issues resolved.
+**Changed:** Modifications or improvements.
+**Removed:** Deprecated or unnecessary code.
 
 ## 📷 Screenshots (if applicable)
 <!-- Add screenshots or GIFs to show the changes visually. -->
